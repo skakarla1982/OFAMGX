@@ -1,0 +1,5 @@
+/srinivas/OFAmgX/amgx/CMakeFiles/rebuild_cache.dir
+/srinivas/OFAmgX/amgx/CMakeFiles/ofamgx.dir
+/srinivas/OFAmgX/amgx/CMakeFiles/edit_cache.dir
+/srinivas/OFAmgX/amgx/plugins/CMakeFiles/rebuild_cache.dir
+/srinivas/OFAmgX/amgx/plugins/CMakeFiles/edit_cache.dir
